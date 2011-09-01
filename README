@@ -1,0 +1,3 @@
+A NVidia CUDA k-mean's implementation using the Thrust library. The implementation uses scatter-gather and prefix scans.
+
+The project is quite old and a bit messy and needs some refactoring.
